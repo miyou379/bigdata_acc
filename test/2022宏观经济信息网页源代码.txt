@@ -1,0 +1,70 @@
+<html> 
+
+	 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:14px;">
+
+
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202211/09/t20221109_38218727.shtml" target="_blank">国家统计局:10月份CPI同比涨幅回落 PPI同比由涨转降</a>&nbsp;&nbsp;<span class="rq1">[2022/11/09  10:28]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202211/09/t20221109_38218721.shtml" target="_blank">2022年10月份全国PPI同比下降1.3% 环比上涨0.2%</a>&nbsp;&nbsp;<span class="rq1">[2022/11/09  10:26]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202211/09/t20221109_38218718.shtml" target="_blank">2022年10月份全国CPI同比上涨2.1% 环比上涨0.1%</a>&nbsp;&nbsp;<span class="rq1">[2022/11/09  10:25]</span></td>
+      </tr>
+      <tr>
+        <td height="8" class="line_bg">&nbsp;</td>
+      </tr>
+	  <tr>
+        <td height="10">&nbsp;</td>
+      </tr>
+	
+        
+          <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202210/14/t20221014_38162010.shtml" target="_blank">2022年9月份PPI同比上涨0.9% 环比下降0.1%</a>&nbsp;&nbsp;<span class="rq1">[2022/10/14  10:18]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202210/14/t20221014_38162005.shtml" target="_blank">2022年9月份CPI同比上涨2.8% 环比上涨0.3%</a>&nbsp;&nbsp;<span class="rq1">[2022/10/14  10:15]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202210/14/t20221014_38162012.shtml" target="_blank">国家统计局:9月CPI同比涨幅有所扩大 PPI同比涨幅回落</a>&nbsp;&nbsp;<span class="rq1">[2022/10/14  10:21]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../bank12/scroll/202210/11/t20221011_38156233.shtml" target="_blank">央行：9月末M2余额262.66万亿元 同比增长12.1%</a>&nbsp;&nbsp;<span class="rq1">[2022/10/11  21:11]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../bank12/scroll/202209/09/t20220909_38096740.shtml" target="_blank">央行：8月末M2余额259.51万亿元 同比增长12.2%</a>&nbsp;&nbsp;<span class="rq1">[2022/09/09  17:51]</span></td>
+      </tr>
+      <tr>
+        <td height="8" class="line_bg">&nbsp;</td>
+      </tr>
+	  <tr>
+        <td height="10">&nbsp;</td>
+      </tr>
+	
+        
+          <tr>
+        <td height="28" align="left" class="font14">·<a href="../../bank12/scroll/202208/12/t20220812_37959397.shtml" target="_blank">央行：7月末M2余额257.81万亿元 同比增长12%</a>&nbsp;&nbsp;<span class="rq1">[2022/08/12  18:31]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202208/10/t20220810_37950286.shtml" target="_blank">统计局城市司高级统计师：7月份CPI同比涨幅略有扩大</a>&nbsp;&nbsp;<span class="rq1">[2022/08/10  09:42]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202208/10/t20220810_37950274.shtml" target="_blank">2022年7月份全国PPI同比上涨4.2% 环比下降1.3%</a>&nbsp;&nbsp;<span class="rq1">[2022/08/10  09:39]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../stock/gsgdbd/202208/10/t20220810_37950250.shtml" target="_blank">2022年7月份全国CPI同比上涨2.7% 环比上涨0.5%</a>&nbsp;&nbsp;<span class="rq1">[2022/08/10  09:36]</span></td>
+      </tr>
+	        <tr>
+        <td height="28" align="left" class="font14">·<a href="../../bank12/scroll/202207/11/t20220711_37855395.shtml" target="_blank">央行：6月末M2余额258.15万亿 同比增11.4%</a>&nbsp;&nbsp;<span class="rq1">[2022/07/11  18:01]</span></td>
+      </tr>
+      <tr>
+        <td height="8" class="line_bg">&nbsp;</td>
+      </tr>
+	  <tr>
+        <td height="10">&nbsp;</td>
+      </tr>
+	
+        
+      </table>  
+</html>
